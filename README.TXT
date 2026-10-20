@@ -7,6 +7,6 @@ Possible ideas for my Creative coding project:
         Waitrose customer interactions per shift
         Gym split Data 
         Amount of cash vs card transactions at a checkouts 
-        How much stokcing i do each day 
+        How much stocking i do each day in a shift 
         Bouldering V0-v3 data changes 
-        
+        Table tennis Win/Loss/Draw ratio
