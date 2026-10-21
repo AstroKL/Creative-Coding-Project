@@ -4,9 +4,15 @@ This repository will be filled after the Creatve Coding module has started.
 
 
 Possible ideas for my Creative coding project:
-        Waitrose customer interactions per shift
+        interactions with people 
         Gym split Data 
-        Amount of cash vs card transactions at a checkouts 
-        How much stocking i do each day in a shift 
+        Amount of cash vs card
+        Stocking each day 
         Bouldering V0-v3 data changes 
         Table tennis Win/Loss/Draw ratio
+        How much money spent on food each day (Specifcs)
+        
+Ideas that i think would be good
+
+        Table tennis Win/Loss ratio
+        
