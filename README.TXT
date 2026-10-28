@@ -19,4 +19,8 @@ Ideas that i think would be good
 Finalised Idea
         Table Tennis Win/Loss Ratio
         
+What i want to display 
+        A bar chart showing wins and losses vs each person
+        And show the chnage of points I've won vs loss through a scatter graph in total 
+        
         
