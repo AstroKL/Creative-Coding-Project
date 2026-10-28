@@ -15,4 +15,8 @@ Possible ideas for my Creative coding project:
 Ideas that i think would be good
 
         Table tennis Win/Loss ratio
+
+Finalised Idea
+        Table Tennis Win/Loss Ratio
+        
         
