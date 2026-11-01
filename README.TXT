@@ -21,13 +21,17 @@ Finalised Idea
         
 What i want to display 
         A bar chart showing wins and losses vs each person
-        And show the chnage of points I've won vs loss through a scatter graph in total 
-        Pie chart showing mood changes 
+        And show the change of points I've won vs loss through a scatter graph in total 
+        Pie chart showing mood changes
+        Momentum Line to show rate of changes depending on who i play and mood when playing 
+
+
         
 
 How am i going to track this data going forward?
-        Everytime I play I will track this data on my notes app about who i played Wins/Losses and My score compared to my opponentand try to
-        remember the date .
+        Everytime I play I will track this data on my notes app about who i played Wins/Losses and My score compared to my opponent and try to
+        remember the date and Adding mood when playing.
+        After i have the data i will add to the csv file
 
         
 
