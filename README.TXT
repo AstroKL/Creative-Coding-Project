@@ -25,4 +25,10 @@ What i want to display
         Pie chart showing mood changes 
         
 
+How am i going to track this data going forward?
+        Everytime I play I will track this data on my notes app about who i played Wins/Losses and My score compared to my opponentand try to
+        remember the date .
+
+        
+
         
