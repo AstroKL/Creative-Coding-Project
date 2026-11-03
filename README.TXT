@@ -35,7 +35,11 @@ How am i going to track this data going forward?
         
 
 Issues collecting the table tennis data
-        
+        Inaccurate Recording - I might forget to record scores or results may be entered incorrectly after playing the game leading to errors in the data
+        Missing Data - might forget to record some matches, moods or scores causing gaps in the data 
+        Subjective Mood Ratings - Mood values may contain bias and are based on my judgment but will ask my opponent everytime we finish matches how they saw my mood 
+        Opponent Skill differemces - Some Opponents are much stronger than others, which can affect the datas win rates 
+        Timing of data Collection - if data is recorder after long matches detaisl may be forgotten 
 
         
 
