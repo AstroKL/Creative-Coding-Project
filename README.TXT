@@ -41,6 +41,24 @@ Issues collecting the table tennis data
         Opponent Skill differemces - Some Opponents are much stronger than others, which can affect the datas win rates 
         Timing of data Collection - if data is recorder after long matches detaisl may be forgotten 
 
+Success criteria
+
+        The project clearly visualises my table tennis performance data
+        The visualisations identify patterns between mood and performance
+        Interactive features improve engagement with the data
+        Animations help communicate information clearly
+        New CSV data can be added easily without changing the code
+        All data is displayed accurately
+
+How will I evaluate my project?
+
+        Test the program with friends and classmates
+        Collect feedback on readability and ease of use
+        Check that all visualisations correctly represent the CSV data
+        Ensure animations improve understanding rather than distract users
+        Verify that new match data can be added without errors
+        Evaluate whether the visualisations successfully communicate performance trends
+
         
 
         
