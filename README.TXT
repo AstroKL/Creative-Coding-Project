@@ -19,11 +19,13 @@ Ideas that i think would be good
 Finalised Idea
         Table Tennis Win/Loss Ratio
         
-What i want to display 
+What i could display 
         A bar chart showing wins and losses vs each person
         And show the change of points I've won vs loss through a scatter graph in total 
         Pie chart showing mood changes
         Momentum Line to show rate of changes depending on who i play and mood when playing 
+        Opponent ranking chart sorted by win percentage
+        Mood vs Performance graph showing whether mood affects results
 
 
         
@@ -40,10 +42,10 @@ Issues collecting the table tennis data
         Subjective Mood Ratings - Mood values may contain bias and are based on my judgment but will ask my opponent everytime we finish matches how they saw my mood 
         Opponent Skill differemces - Some Opponents are much stronger than others, which can affect the datas win rates 
         Timing of data Collection - if data is recorder after long matches detaisl may be forgotten 
-
 Success criteria
 
         The project clearly visualises my table tennis performance data
+        Users can compare results against different opponents
         The visualisations identify patterns between mood and performance
         Interactive features improve engagement with the data
         Animations help communicate information clearly
