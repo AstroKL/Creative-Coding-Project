@@ -42,6 +42,7 @@ Issues collecting the table tennis data
         Subjective Mood Ratings - Mood values may contain bias and are based on my judgment but will ask my opponent everytime we finish matches how they saw my mood 
         Opponent Skill differemces - Some Opponents are much stronger than others, which can affect the datas win rates 
         Timing of data Collection - if data is recorder after long matches detaisl may be forgotten 
+
 Success criteria
 
         The project clearly visualises my table tennis performance data
