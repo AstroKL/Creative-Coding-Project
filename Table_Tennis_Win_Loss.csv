@@ -27,6 +27,6 @@ MatchID,Date,Opponent,KrishScore,OpponentScore,Result,Mood
 26,2026-11-19,J,11,8,Win,Focused
 27,2026-11-19,K,7,11,Loss,Tired
 28,2026-11-19,R,9,11,Loss,Nervous
-29,2026-11-20,V,11,6,Win,Confident
-30,2026-11-20,D,8,11,Loss,Relaxed
-31,2026-11-20,JK,10,12,Loss,Focused
+29,2026-11-19,V,11,6,Win,Confident
+30,2026-11-19,D,8,11,Loss,Relaxed
+31,2026-11-19,JK,10,12,Loss,Focused
